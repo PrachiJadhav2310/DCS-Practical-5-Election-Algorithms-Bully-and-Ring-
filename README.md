@@ -1,0 +1,7 @@
+javac BullyAlgorithm.java
+
+java BullyAlgorithm
+
+javac RingElection.java
+
+java RingElection
